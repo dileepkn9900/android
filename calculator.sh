@@ -8,4 +8,9 @@ y=a-b
 #
 #
 #
+<<<<<<< HEAD
 ##### rebase
+=======
+#
+12 merge 
+>>>>>>> mergeexp
